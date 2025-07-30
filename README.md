@@ -34,5 +34,5 @@ All logic is contained in a single Python file: `treasury_manager.py`
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/treasury-management-system.git
+   git clone https://github.com/DwivediSaurabh5550/treasury-management-system.git
    cd treasury-management-system
